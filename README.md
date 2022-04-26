@@ -4,11 +4,11 @@
   </h3>
 </a>
 <p align="center">
-  <a href="https://github.com/libDrive/libDrive/releases">
-    <img src="https://img.shields.io/github/downloads/libDrive/libDrive/total?color=%234197fe&style=for-the-badge" />
+  <a href="https://github.com/AceroIaOrion/libDrive/releases">
+    <img src="https://img.shields.io/github/downloads/AceroIaOrion/libDrive/total?color=%234197fe&style=for-the-badge" />
   </a>
-  <a href="https://github.com/libDrive/libDrive/releases/latest">
-    <img src="https://img.shields.io/github/v/release/libDrive/libDrive?color=%234197fe&style=for-the-badge" />
+  <a href="https://github.com/AceroIaOrion/libDrive/releases/latest">
+    <img src="https://img.shields.io/github/v/release/AceroIaOrion/libDrive?color=%234197fe&style=for-the-badge" />
   </a>
 </p>
 <p align="center">
@@ -33,11 +33,11 @@ This repository (<https://github.com/libDrive/libDrive>) only acts as a hub for 
 ## Source code
 
 - [libDrive/libDrive](https://github.com/libDrive/libDrive)
-- [libDrive/server](https://github.com/libDrive/server)
-- [libDrive/web](https://github.com/libDrive/web)
-- [libDrive/cloudflare](https://github.com/libDrive/cloudflare)
-- [libDrive/heroku](https://github.com/libDrive/heroku)
-- [libDrive/config](https://github.com/libDrive/config)
+- [libDrive/server](https://github.com/AceroIaOrion/server)
+- [libDrive/web](https://github.com/AceroIaOrion/web)
+- [libDrive/cloudflare](https://github.com/AceroIaOrion/cloudflare)
+- [libDrive/heroku](https://github.com/AceroIaOrion/heroku)
+- [libDrive/config](https://github.com/AceroIaOrion/config)
 
 ## Features
 
